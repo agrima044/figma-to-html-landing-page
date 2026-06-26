@@ -39,7 +39,6 @@ This project recreates a business landing page from a Figma design with a strong
 ├── style.css
 ├── images/
 ├── README.md
-└── .gitignore
 ```
 
 ## 🚀 Getting Started
