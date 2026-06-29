@@ -6,6 +6,10 @@ A modern, responsive landing page built by converting a Figma design into a full
 
 https://agrima044.github.io/figma-to-html-landing-page/
 
+## 📸 Preview
+
+![Data Format Converter](./preview/figma-to-html-preview-png.png)
+
 ## 📖 Project Overview
 
 This project recreates a business landing page from a Figma design with a strong focus on visual accuracy and responsiveness. Every section has been carefully implemented to closely match the original design while maintaining clean, well-structured code and a smooth user experience across different screen sizes.
